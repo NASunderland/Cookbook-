@@ -2,10 +2,6 @@
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Simple No-Fuss Pizza Dough",
-  "author": {
-    "@type": "Person",
-    "name": "YesMan"
-  },
   "description": "A quick, reliable pizza dough recipe perfect for thin or thick crusts. No second proof needed. Includes handling tips and emergency tricks.",
   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Easy_homemade_pizza.jpg/640px-Easy_homemade_pizza.jpg",
   "recipeYield": "2 medium pizzas",
@@ -14,7 +10,6 @@
   "totalTime": "PT1H30M",
   "recipeCuisine": "Italian",
   "recipeCategory": "Dinner",
-  "keywords": "pizza, dough, quick, no-fuss, easy, bread flour, plain flour, freezer-friendly",
   "recipeIngredient": [
     "500g strong white bread flour (or plain/all-purpose flour)",
     "1½ tsp salt",
@@ -52,25 +47,5 @@
       "@type": "HowToStep",
       "text": "Add toppings and bake at 240°C (fan 220°C) or as hot as your oven allows for 7–10 minutes on a preheated tray or stone."
     }
-  ],
-  "aggregateRating": {
-    "@type": "AggregateRating",
-    "ratingValue": "5",
-    "reviewCount": "1"
-  },
-  "note": [
-    "No second proof needed — bake after shaping.",
-    "Optional: Rest shaped dough for 10–15 mins for puffier crust.",
-    "Avoid sticking: Use semolina or plain flour on peel. Almond flour not recommended (burns easily, absorbs moisture).",
-    "Emergency tip: If dough sticks to peel, gently lift and add more flour underneath or blow air under it.",
-    "Plain flour works fine — dough will be softer. Only reduce water if it feels too sticky.",
-    "Add garlic powder or oregano to the dough for extra flavour.",
-    "Dough can be frozen in balls. Defrost overnight before using."
-  ],
-  "tools": [
-    "Mixing bowl",
-    "Measuring jug",
-    "Pizza peel",
-    "Oven or pizza stone"
   ]
 }
