@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Simple No-Fuss Pizza Dough",
+  "description": "A quick, reliable pizza dough recipe perfect for thin or thick crusts. No second proof needed. Includes handling tips and emergency tricks.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Easy_homemade_pizza.jpg/640px-Easy_homemade_pizza.jpg",
+  "recipeYield": "2 medium pizzas",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
+  "totalTime": "PT1H30M",
+  "recipeCuisine": "Italian",
+  "recipeCategory": "Dinner",
+  "recipeIngredient": [
+    "500g strong white bread flour (or plain/all-purpose flour)",
+    "1½ tsp salt",
+    "1 tsp sugar",
+    "1 tbsp olive oil",
+    "7g instant yeast (1 sachet)",
+    "325ml warm water"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Mix flour, salt, sugar, and yeast in a large bowl."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add warm water and olive oil. Stir until a shaggy dough forms."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Turn out onto a floured surface and knead for 8–10 minutes (or use a stand mixer with dough hook for ~5 minutes) until smooth."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Place in an oiled bowl, cover, and let rise for 45–60 minutes until doubled in size."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "If not baking immediately, store the dough in the fridge for up to 1 hour to slow the ferment. Let rest at room temp for 10–15 mins before using."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Knock back the dough, divide in two, and shape into pizza bases."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Add toppings and bake at 240°C (fan 220°C) or as hot as your oven allows for 7–10 minutes on a preheated tray or stone."
+    }
+  ]
+}
